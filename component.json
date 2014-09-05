@@ -1,0 +1,17 @@
+{
+  "name": "x-cycle",
+  "version": "1.0.3",
+  "license": "Public-Domain",
+  "description": "decycle your json",
+  "keywords": [
+    "x-x",
+    "x-component",
+    "decycle"
+  ],
+  "dependencies": {
+  },
+  "main": "./cycle.js",
+  "scripts": [
+    "cycle.js"
+  ]
+}
